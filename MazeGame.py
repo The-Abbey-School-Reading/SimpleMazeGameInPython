@@ -4,6 +4,8 @@
 #
 # Can you draw a map of the rooms?
 #
+# Can you connect room 4 to the system?
+# 
 # Can you add another room?
 #
 # To add a room you will need to add a room description in the first sub-process
